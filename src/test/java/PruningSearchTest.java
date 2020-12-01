@@ -1,5 +1,3 @@
-package org.pegsolitaire.test;
-
 import static org.junit.Assert.*;
 
 import solver.Board;
